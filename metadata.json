@@ -1,0 +1,6 @@
+{
+  "name": "FIFO Branch & Bound - 0/1 Knapsack Simulator",
+  "description": "Interactive visual simulator for the FIFO Branch and Bound 0/1 Knapsack algorithm with synchronized tree, queue, pseudocode, and Java code execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
